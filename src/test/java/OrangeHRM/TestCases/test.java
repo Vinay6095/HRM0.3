@@ -40,6 +40,8 @@ public class test extends TestBase {
     	 Home.username();
     	 Home.Realpass();
     	System.out.println("Finished execution");
+		System.out.println("Finished execution");
+		System.out.println("Finished execution");
 		
 	}
      
